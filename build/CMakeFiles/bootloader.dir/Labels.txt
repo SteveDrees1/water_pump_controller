@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/CMakeFiles/bootloader
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/CMakeFiles/bootloader.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/CMakeFiles/bootloader-complete.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/bigdaddy/esp/esp-idf/examples/get-started/water_pump_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
