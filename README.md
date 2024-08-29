@@ -18,7 +18,7 @@ water_pump_controller/
 ├── requests/
 │   ├── requests.py           # Python script to interact with the ESP32 API
 └── CMakeLists.txt            # Top-level CMake configuration
-
+```
 
 ## Components Overview
 
